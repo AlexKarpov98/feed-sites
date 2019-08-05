@@ -1,16 +1,22 @@
 {
   "feedSites": [
-    {
-      "url": "http://clat.nl",
-      "hrefLang": "nl-NL"
-    },
-    {
-      "url": "http://ouisell.fr",
-      "hrefLang": "fr-FR"
-    },
-    {
-      "url": "https://imodephones.co.uk",
-      "hrefLang": "en-GB"
-    }
+    [
+      {
+        "url": "http://clat.nl",
+        "hrefLang": "nl-NL"
+      }
+    ],
+    [
+      {
+        "url": "http://ouisell.fr",
+        "hrefLang": "fr-FR"
+      }
+    ],
+    [
+      {
+        "url": "https://imodephones.co.uk",
+        "hrefLang": "en-GB"
+      }
+    ]
   ]
 }
