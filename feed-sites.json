@@ -1,11 +1,11 @@
 {
   "feedSites": [
     {
-      "url": "http://clat.nl",
+      "url": "https://clat.nl",
       "hrefLang": "nl-NL"
     },
     {
-      "url": "http://ouisell.fr",
+      "url": "https://ouisell.fr",
       "hrefLang": "fr-FR"
     },
     {
